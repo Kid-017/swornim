@@ -1,7 +1,7 @@
 <html>
 <head>
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="hello.css">
+ <title> My Portfolio </title>
+ <link rel="stylesheet" href="hello.css">
 </head>
 <body>
     <header>
